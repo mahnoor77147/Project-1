@@ -9,3 +9,10 @@ p{
     text-align: center;
     margin: 0px 50px 0px 50px;
 }
+h2{
+    background-color: seagreen;
+    color: red;
+    text-align: center;
+    text-decoration: overline;
+    line-height: 100px;
+}
